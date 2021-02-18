@@ -1,6 +1,6 @@
 ---
 title: Introduction
-description: A quick introduction to Get help with remote education
+description: A quick introduction to 'Get help with remote education'
 date: 2020-11-05
 ---
 

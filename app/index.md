@@ -1,7 +1,7 @@
 ---
 layout: collection
 title: "A design history for Get help with remote education"
-description: "Document and share design decisions. Create a permanent record of how your service has developed over time."
+description: ""
 pagination:
   data: collections.all
   reverse: true
