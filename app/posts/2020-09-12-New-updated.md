@@ -8,9 +8,9 @@ Most of our user research participants (teachers, headmasters etc) already recei
 
 However, one of the needs we identified through testing ‘Get help with remote education’ was that, even if users were notified by email that a particular page or piece of guidance had been updated, it would be useful to be shown exactly what had been changed or updated when they visited the ‘Get help…’ site.
 
-This needed to be address on the initial landing page, and on the content page(s) where the changes had been made.
+This needed to be addressed on the initial landing page, and on the content page(s) where the changes had been made.
 
-For the landing page we added 'updated' meta data to each card, with an additional blue tag to highlight the most recently updated content. For these tags we used the standard gov.uk blue, to avoid any unintended emotional response in users had we chosen, for example, red, also bearing in mind the fact that colour alone shouldn't be used to convey information, for accessibility reasons:
+For the landing page we added 'updated' meta data to each card, with an additional blue tag to highlight the most recently updated content. For these tags we used the standard gov.uk blue, to avoid any unintended emotional response in users had we chosen, for example, red. We also had to be careful not to use colour alone to convey information, as this has accessibility implications:
 
 ![Screenshot of site homepage showing added dates to show when content was updated](/images/new-updated/new-updated-v4.png)
 
@@ -30,6 +30,8 @@ To address this in the next iteration, we added a highlighted container around t
 
 ![Screenshot of content page showing a summary of new or updated content](/images/new-updated/v4_show-updates.png)
 
-We haven't yet been able to get user feedback on this iteration due to lack of testing resource on 'Get help...', but we do have some concerns around how useful this pattern is, in different situations. For example, if a page has had several minor updates which are spread throughout the document, it may be that a number of highlighted areas are less effective than if the updated are contained within one section. Also, if a page has effectively had a complete overhaul, there is a question around whether we would want to apply a visual highlight to the entire content, or just indicate with a text summary that the document has been revised in its entirety.
+We haven't yet been able to get user feedback on this iteration due to lack of testing resource on 'Get help...', but we do have some concerns around how useful this pattern is, in different situations. For example, if a page has had several minor updates which are spread throughout the document, it may be that a number of highlighted areas are less effective than if the updates are contained within one section.
+
+Also, if a page has effectively had a complete overhaul, there is a question around whether we would want to apply a visual highlight to the entire document, or just indicate with a text summary that the document has been revised in its entirety.
 
 As soon as time and resource allows we plan to gather further user feedback on this, and in the meantime have added examples of our work to the discussion on the proposed pattern for [showing text changes](https://github.com/alphagov/govuk-design-system-backlog/issues/126) for gov.uk content.
