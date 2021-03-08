@@ -1,5 +1,5 @@
 ---
-title: Improving on our information architecture
+title: Improving our information architecture
 description: Looking at how we can make our content and guidance easier to navigate
 date: 2021-03-01
 ---
